@@ -1,2 +1,2 @@
 # MPhil_speech_recognition
-This r
+This repository is for the speech recognition section of the MPhil
